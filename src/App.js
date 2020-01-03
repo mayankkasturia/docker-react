@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Pitney Bowes Geocoding
+          learn react
         </a>
       </header>
     </div>
